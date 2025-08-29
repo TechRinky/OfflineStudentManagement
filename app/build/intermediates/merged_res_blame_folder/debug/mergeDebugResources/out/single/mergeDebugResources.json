@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.offlinefirststudents.app-debug-74:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.offlinefirststudents.app-main-76:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.offlinefirststudents.app-debug-74:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.offlinefirststudents.app-main-76:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

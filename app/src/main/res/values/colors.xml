@@ -1,0 +1,5 @@
+<resources>
+    <color name="green_sync">#2e7d32</color>
+    <color name="orange_pending">#ef6c00</color>
+    <color name="red_failed">#c62828</color>
+</resources>
